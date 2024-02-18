@@ -1,3 +1,3 @@
-ML project: Customer churn analysis
+# ML project: Customer churn analysis
 
 Being known for your analytical skills you have been asked to help the Marketing team identify clients who are likely to close their accounts. If these clients are identified early, the Marketing team could reach out to these clients to proactively mitigate their churn. Your job is to build predictive model that will correctly identify clients who are likely to close their account soon. Use the training data to build your model and use it to make prediction on unlabelled test data. Marketing team will then verify how good the model performance would be if they wanted to use it. Deadline is short so don’t focus on making your model perfect. It is more important for the marketing team to understand what you are doing so make sure you explain and justify your decisions during the modelling process.
